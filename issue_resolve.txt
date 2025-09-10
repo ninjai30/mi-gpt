@@ -1,0 +1,2 @@
+fix can not load xiaomi acount issue:
+https://github.com/idootop/mi-gpt/issues/326
